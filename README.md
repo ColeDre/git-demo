@@ -4,4 +4,4 @@
 
 diy lets go normcore 
 
-Vinegar!
+## WEBSITE CONTENTS
